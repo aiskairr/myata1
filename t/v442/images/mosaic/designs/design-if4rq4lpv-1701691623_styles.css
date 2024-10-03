@@ -701,7 +701,7 @@
 
 .root--u-if4rq4lpv { position: relative; min-height: 100vh; display: block; font-family: Montserrat, sans-serif; background-color: rgba(var(--color-iqotilwdl), 1); color: rgba(var(--color-igiqfywfa), 1); overflow-x: hidden; overflow-y: hidden }
 .root--u-if4rq4lpv::before, .root--u-if4rq4lpv::after { content: ""; display: table; clear: both }
-.section--u-i3d8sfmww { display: block; width: 100%; position: relative; min-height: 100vh; background-image: url("/3.jpg"); background-repeat: no-repeat, no-repeat, no-repeat, no-repeat; background-position: center; background-size: cover; background-attachment: scroll, scroll, scroll, scroll }
+.section--u-i3d8sfmww { display: block; width: 100%; position: relative; min-height: 100vh; background-image: url("../../../../../3.jpg"); background-repeat: no-repeat, no-repeat, no-repeat, no-repeat; background-position: center; background-size: cover; background-attachment: scroll, scroll, scroll, scroll }
 .section--u-iwjoelzg6 { display: block; width: 100%; position: relative; padding-bottom: 20px; padding-left: 5%; padding-right: 5%; padding-top: 20px }
 .section--u-ilhthe7ip { display: block; width: 100%; position: relative; padding-left: 5%; padding-right: 5%; padding-bottom: 240px; padding-top: 40px }
 .container--u-i03pdtj8g { width: 100%; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; position: relative }
@@ -1615,7 +1615,7 @@
 	.blocklist__item--u-ikctdqff2 { min-width: auto }
 	.blocklist__list--u-idql7ab36 { width: 100%; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; height: auto }
 	.section--u-ilhthe7ip { padding-bottom: 50px }
-	.section--u-i3d8sfmww { min-height: auto; background-image: url("/3.jpg"); background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat; background-position: center; background-size: cover; background-attachment: scroll, scroll, scroll, scroll, scroll }
+	.section--u-i3d8sfmww { min-height: auto; background-image: url("../../../../../3.jpg"); background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat; background-position: center; background-size: cover; background-attachment: scroll, scroll, scroll, scroll, scroll }
 	.text--u-i25ej0mm9 { font-size: 18px }
 	.text--u-ixg01ioso { font-size: 34px }
 	.div--u-ipibhd2p1 { width: 100%; padding-top: 30px }

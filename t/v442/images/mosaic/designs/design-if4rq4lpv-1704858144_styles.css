@@ -1050,7 +1050,7 @@ a { text-decoration: none; color: rgba(var(--color-ig7rtcd9i), 1); font-weight: 
 
 @media (max-width: 991px) {
 	.section--u-iyyk1s20o { padding-top: 50px; padding-bottom: 80px }
-	.section--u-i3d8sfmww { min-height: auto; background-image: url("/3.jpg"); background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat; background-position: center; background-size: cover; background-attachment: scroll, scroll, scroll, scroll, scroll }
+	.section--u-i3d8sfmww { min-height: auto; background-image: url("../../../../../3.jpg"); background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat; background-position: center; background-size: cover; background-attachment: scroll, scroll, scroll, scroll, scroll }
 	.page-title--u-im508nwzq { margin-top: 10px; font-size: 34px }
 	.side-panel--u-iu5ynnp17 { display: block }
 	.text--u-is41gwyw0 { font-size: 34px }
